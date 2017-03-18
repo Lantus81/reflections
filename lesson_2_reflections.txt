@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 .git folder is created. I need to do it so we can track changes in this folder.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area only contains files thet are changed and are ment to be added in next commit. We can seperate files to commit them in more than one commit.
+How can you use the staging area to make sure you have one commit per logical change?
+I only add files in staging area that I wish to commit and than with git status command i can see what files i want to include in my next commit.
