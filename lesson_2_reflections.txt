@@ -6,3 +6,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 I only add files in staging area that I wish to commit and than with git status command i can see what files i want to include in my next commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 For adding some big new experimetal feature. When we wont try smoething but still not sure will we add it to final project or not. With branches we can work only on that features an make commits for that feature only.
+How do the diagrams help you visualize the branch structure?
+With diagrams it is much easyer to see when branch starts and it is easy to track commits for every branch.
